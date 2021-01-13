@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hey! My name is <strong>Wesley Lopes</strong>
+
+<br />
+
+💬 I'm a Backend-end Developer.
+
+🔭 Currenting working for [Catho](https://catho.com.br/).
+
+🌱 I’m currently learning to be a VIM user.
+
+⚡ Keep going. Keep growing.
 
 <!--
 **wesdeveloper/wesdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
