@@ -4,9 +4,9 @@
 
 💬 I'm a Backend-end Developer.
 
-🔭 Currenting working for [Catho](https://catho.com.br/).
+🔭 Currenting working for [Worldly](https://worldly.io/).
 
-🌱 I’m currently learning to be a VIM user.
+🌱 I’m still in path of learning to be a VIM user.
 
 ⚡ Keep going. Keep growing.
 
